@@ -1,5 +1,8 @@
 body {background-color: rgb(255, 255, 255)
 ;}
 .caixa{
-    background-color: rgb(245, 43, 43);}
+    background-color: rgb(245, 43, 43);
+padding: 5px;
+}
+
 .alinhamento{text-align: center;}
